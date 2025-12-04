@@ -34,8 +34,6 @@ the game becomes faster
 speed decreases every 5-6 successful dodges
 minimum speed limit maintained so it doesn't become impossible
 if(speed>40)speed-=5;
-4️⃣.Conclusion
-This assignment enhances the original game by adding three important gameplay :
-*Score system
+
 *Lives system
 *Difficulty increase
